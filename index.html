@@ -4,7 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Hello WOrld! (with CSS)</title>
+    <title>Hello World! (with CSS)</title>
+    <style>
+        h1 {
+            color: firebrick; 
+            font-size: 50px;
+        }
+        h2 {
+            color: seagreen;
+            font-size: 24px;
+        }
+        h1, h2 {
+            color: purple;
+        }
+        .food {
+            color: orange;
+        }
+        li {
+            color: blue
+        }
+    </style>
 </head>
 <body>
     <h1>Hi, this is my website!</h1>
@@ -12,11 +31,11 @@
     <img src="images\Fulgrim.jpg">
     <p>My favorite things:</p>
     <ul>
-        <li>Tacos</li>
+        <li class="food">Tacos</li>
         <li>Puppies</li>
-        <li>Pizza</li>
+        <li class="food">Pizza</li>
         <li>Kittens</li>
-        <li>Vegetables (not really)</li>
+        <li class="food">Vegetables (not really)</li>
     </ul>
 </body>
 </html>
