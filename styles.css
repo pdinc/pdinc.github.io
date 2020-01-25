@@ -1,24 +1,3 @@
-h1 {
-    color: firebrick; 
-    font-size: 75px;
-    font-family: Pacifico;
-}
-h2 {
-    color: seagreen;
-    font-size: 24px;
-}
-h3 {
-    color: gold;
-}
-.food {
-    color: orange;
-}
-li {
-    color: blue;
-}
-body {
-    font-family: 'Bangers';
-}
-.fas {
-    color: firebrick; 
+.jumbotron{
+    background-image: url(images/Jumbotron.jpg);
 }
