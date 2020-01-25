@@ -1,3 +1,16 @@
 .jumbotron{
-    background-image: url(images/Jumbotron.jpg);
+    background-color: lavender;
+}
+
+img.profilephoto {
+    width: auto;
+}
+
+p.mainline {
+    font-size: x-large;
+}
+
+a.uwc {
+    background-color: #045f94;
+    border-color: #045f94;
 }
