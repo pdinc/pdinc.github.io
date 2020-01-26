@@ -29,3 +29,11 @@ a.sepia:hover {
     background-color: #57330f;
     border-color: #57330f;
 }
+
+img.resumeprofilephoto {
+    height: 15vh;
+}
+
+.mugshot {
+    background-color: white;
+}
