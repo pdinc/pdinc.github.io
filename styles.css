@@ -15,7 +15,17 @@ a.uwc {
     border-color: #045f94;
 }
 
+a.uwc:hover {
+    background-color: #034063;
+    border-color: #034063;
+}
+
 a.sepia {
     background-color: #704214;
     border-color: #704214;
+}
+
+a.sepia:hover {
+    background-color: #57330f;
+    border-color: #57330f;
 }
