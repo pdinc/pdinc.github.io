@@ -44,3 +44,18 @@ img.resumeprofilephoto {
 .mugshot {
     background-color: white;
 }
+
+.footerlinks {
+    font-family: 'Abel', sans-serif;
+    font-size: small;
+    font-weight: bold;
+    color: darkslategray;
+}
+
+.footerlinks:hover {
+    color: darkslategray;
+}
+
+.footerimage{
+    font-size: large;
+}
