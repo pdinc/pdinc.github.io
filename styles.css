@@ -1,9 +1,15 @@
+h1, h2, h3, h4, h5, p{
+    font-family: 'Muli', sans-serif;
+}
+
 .jumbotron{
     background-color: lavender;
+    padding: 2rem 1rem 1rem 1rem;
 }
 
 img.profilephoto {
-    width: auto;
+    min-height: 120px;
+    height: 15vh;
 }
 
 p.mainline {
@@ -31,6 +37,7 @@ a.sepia:hover {
 }
 
 img.resumeprofilephoto {
+    min-height: 120px;
     height: 15vh;
 }
 
