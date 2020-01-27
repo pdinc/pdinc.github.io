@@ -36,6 +36,10 @@ a.sepia:hover {
     border-color: #57330f;
 }
 
+a.darktablelink {
+    color: #80bdff;
+}
+
 img.resumeprofilephoto {
     min-height: 120px;
     height: 15vh;
@@ -58,4 +62,9 @@ img.resumeprofilephoto {
 
 .footerimage{
     font-size: large;
+}
+
+.table-dark td {
+    border-color: honeydew;
+    border-width: 2px;
 }
